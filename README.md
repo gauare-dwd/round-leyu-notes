@@ -1,2 +1,14 @@
 # round-leyu-notes
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
